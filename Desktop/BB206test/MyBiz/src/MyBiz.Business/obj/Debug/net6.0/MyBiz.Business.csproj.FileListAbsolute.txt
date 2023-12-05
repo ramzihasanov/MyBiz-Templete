@@ -1,0 +1,17 @@
+C:\Users\ll novbe\Desktop\BB206test\MyBiz\src\MyBiz.Business\bin\Debug\net6.0\MyBiz.Business.deps.json
+C:\Users\ll novbe\Desktop\BB206test\MyBiz\src\MyBiz.Business\bin\Debug\net6.0\MyBiz.Business.dll
+C:\Users\ll novbe\Desktop\BB206test\MyBiz\src\MyBiz.Business\bin\Debug\net6.0\MyBiz.Business.pdb
+C:\Users\ll novbe\Desktop\BB206test\MyBiz\src\MyBiz.Business\bin\Debug\net6.0\MyBiz.Core.dll
+C:\Users\ll novbe\Desktop\BB206test\MyBiz\src\MyBiz.Business\bin\Debug\net6.0\MyBiz.Data.dll
+C:\Users\ll novbe\Desktop\BB206test\MyBiz\src\MyBiz.Business\bin\Debug\net6.0\MyBiz.Data.pdb
+C:\Users\ll novbe\Desktop\BB206test\MyBiz\src\MyBiz.Business\bin\Debug\net6.0\MyBiz.Core.pdb
+C:\Users\ll novbe\Desktop\BB206test\MyBiz\src\MyBiz.Business\obj\Debug\net6.0\MyBiz.Business.csproj.AssemblyReference.cache
+C:\Users\ll novbe\Desktop\BB206test\MyBiz\src\MyBiz.Business\obj\Debug\net6.0\MyBiz.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\Desktop\BB206test\MyBiz\src\MyBiz.Business\obj\Debug\net6.0\MyBiz.Business.AssemblyInfoInputs.cache
+C:\Users\ll novbe\Desktop\BB206test\MyBiz\src\MyBiz.Business\obj\Debug\net6.0\MyBiz.Business.AssemblyInfo.cs
+C:\Users\ll novbe\Desktop\BB206test\MyBiz\src\MyBiz.Business\obj\Debug\net6.0\MyBiz.Business.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\Desktop\BB206test\MyBiz\src\MyBiz.Business\obj\Debug\net6.0\MyBiz.Business.csproj.CopyComplete
+C:\Users\ll novbe\Desktop\BB206test\MyBiz\src\MyBiz.Business\obj\Debug\net6.0\MyBiz.Business.dll
+C:\Users\ll novbe\Desktop\BB206test\MyBiz\src\MyBiz.Business\obj\Debug\net6.0\refint\MyBiz.Business.dll
+C:\Users\ll novbe\Desktop\BB206test\MyBiz\src\MyBiz.Business\obj\Debug\net6.0\MyBiz.Business.pdb
+C:\Users\ll novbe\Desktop\BB206test\MyBiz\src\MyBiz.Business\obj\Debug\net6.0\ref\MyBiz.Business.dll
